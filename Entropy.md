@@ -119,12 +119,9 @@ $$
 1. [Wikipedia: Entropy_information](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 2. [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 3. [Decision tree example](https://becominghuman.ai/decision-trees-in-machine-learning-f362b296594a)
-:feet:
-:feet:
-:feet:
-:feet:
-:feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 
+:house:[lostineonomics.com](http://lostineconomics.com) | Jun Sok Huhh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg2MDk3MjAsNTE5MTQ2NjQxXX0=
+eyJoaXN0b3J5IjpbMTU4NDcxNjc4LC0xODQ4NjA5NzIwLDUxOT
+E0NjY0MV19
 -->
