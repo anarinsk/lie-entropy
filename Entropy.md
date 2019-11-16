@@ -1,5 +1,5 @@
 
-**Claude Shannon&#145 Entropy**
+**Claude Shannon's Entropy**
 
 2018-11-25
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com) also posted in [LINK](https://danbi-ncsoft.github.io/etc/2018/12/06/entropy.html)
@@ -126,5 +126,5 @@ $$
 :feet:Jun Sok Huhh | :house:[lostineonomics.com](http://lostineconomics.com)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE5MTQ2NjQxXX0=
+eyJoaXN0b3J5IjpbLTE4NDg2MDk3MjAsNTE5MTQ2NjQxXX0=
 -->
